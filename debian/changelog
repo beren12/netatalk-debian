@@ -1,3 +1,9 @@
+netatalk (3.1.7-1) UNRELEASED; urgency=low
+
+  * Imported Upstream version 3.1.7
+
+ -- Chris Zubrzycki  <debian@mid-earth.net>  Tue, 31 Mar 2015 09:10:10 -0500
+
 netatalk (3.1.6-1) UNRELEASED; urgency=low
 
   * Imported Upstream version 3.1.6
